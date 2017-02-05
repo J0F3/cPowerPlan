@@ -25,7 +25,7 @@ cPowerPlan resource has following properties
 
 1.0.1.0
 
-* Rewirtten for compatibility with core and nano server
+* Rewritten for compatibility with core and nano server
 
 1.0.0.0
 
