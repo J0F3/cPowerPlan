@@ -19,6 +19,10 @@ cPowerPlan resource has following properties
 * **PowerPlan**: Specifies the name of the power plan to set. Possible values are: {Balanced | High performance | Power saver}. Required.
 
 # Versions
+1.0.1.1
+
+* Removed dependency of power plan name in Get-TargetResource. So the resouce should work independently of the OS language.
+
 1.0.1.0
 
 * Rewirtten for compatibility with core and nano server
